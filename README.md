@@ -11,9 +11,4 @@ Python
 Tkinter
 SQLite3
 
-#Team  Members
-Anand Kumar- 11605584
-Jay Govind Shukla- 11611391
-Abhishek Srivastava- 11611393
-Rinku 
-Rohit Kumar
+
