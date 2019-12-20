@@ -7,8 +7,8 @@ UPDATE - To update any particular book.
 DELETE - To delete any particular book.
 
 # Technologies Used
-Python
-Tkinter
-SQLite3
+* Python
+* Tkinter
+* SQLite3
 
 
